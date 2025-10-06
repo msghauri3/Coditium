@@ -15,28 +15,28 @@ const ServicesPage = () => {
       id: 2,
       title: "Software Development",
       description: "Custom software solutions tailored to your business needs. We develop robust, scalable applications using modern technologies.",
-      image: "/services/card01.png",
+      image: "/services/card02.jpg",
       buttonText: "View Portfolio"
     },
     {
       id: 3,
       title: "Mobile Development",
       description: "Native and cross-platform mobile applications for iOS and Android. We create user-friendly mobile experiences.",
-      image: "/services/card01.png",
+      image: "/services/card03.png",
       buttonText: "See Mobile Apps"
     },
     {
       id: 4,
       title: "Web Development",
       description: "Full-stack web development services creating responsive, high-performance websites and web applications.",
-      image: "/services/card01.png",
+      image: "/services/card04.png",
       buttonText: "Discover Solutions"
     },
     {
       id: 5,
       title: "Web Design",
       description: "Beautiful, intuitive web designs that convert visitors into customers. We focus on user experience and visual appeal.",
-      image: "/services/card01.png",
+      image: "/services/card05.png",
       buttonText: "View Designs"
     }
   ];
