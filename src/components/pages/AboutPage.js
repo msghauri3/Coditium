@@ -23,7 +23,7 @@ const AboutPage = () => {
           <Grid item xs={12} md={6}>
             <Box
               component="img"
-              src="/aboutus/card01.png" 
+              src="/aboutus/card07.png" 
               alt="Our Software Development Team"
               sx={{
                 width: '100%',
